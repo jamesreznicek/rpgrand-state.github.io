@@ -1,0 +1,10 @@
+title: My Site
+description: A simple GitHub Pages site
+theme: jekyll-theme-primer
+
+# If your site is in /docs instead of the repo root, uncomment this:
+# baseurl: "/docs"
+
+# Sass options
+sass:
+  sass_dir: assets/css
